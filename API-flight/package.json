@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "helmet": "^6.0.1",
+    "pg": "^8.9.0"
+  },
+  "name": "rest-api-for-bank",
+  "version": "1.0.0",
+  "description": "To fetch bank details, using the data given in the API’s query parameters.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chandru-kt/rest-api-for-bank.git"
+  },
+  "keywords": [
+    "rest-api"
+  ],
+  "author": "chandru-kt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chandru-kt/rest-api-for-bank/issues"
+  },
+  "homepage": "https://github.com/chandru-kt/rest-api-for-bank#readme"
+}
